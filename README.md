@@ -2,7 +2,7 @@
 
 ## Description
 
-SPIDer is a framework that decomposes the mutual information contained in a multi-document summary into redundant, synergistic, union and unique information. We base our implementation on the Partial Information Decomposition (PID) approach defined in [A Novel Approach to the Partial Information Decomposition](https://www.mdpi.com/1099-4300/24/3/403).
+SPIDer is a framework that decomposes the mutual information contained in a multi-document summary into redundant, synergistic, union, and unique information. We base our implementation on the Partial Information Decomposition (PID) approach defined in [A Novel Approach to the Partial Information Decomposition](https://www.mdpi.com/1099-4300/24/3/403).
 
 ## Installation
 
@@ -15,10 +15,11 @@ pip install -r requirements.txt
 ## Usage
 
 The class `MDSPID` works as follows:
-
 1. define the dataset and underlying language model you want to use
 2. compute the needed sentence probabilities
 3. run the computation of PIDs (partial information decomposition)
+
+Important: Create the output folders ```outputs/precomputed```, ```outputs/preprocessed_data```, and ```outputs/results```
 
 Run: 
 ```
