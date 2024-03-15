@@ -1,0 +1,10 @@
+model_config:
+    model_id: "gpt2-large"
+general_config:
+    batch_size: 8
+    experiment_key: "fixedMDS_dataset"
+data_config:
+    dataset_name: "multi_news"
+    split: "train"
+    total_sources: 2
+    random_sample: true

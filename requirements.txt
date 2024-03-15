@@ -1,0 +1,7 @@
+datasets==2.15.0
+numpy==1.24.3
+torch==2.0.1
+transformers==4.29.2
+plotly==5.15.0
+nbformat>=4.2.0
+jsonargparse
