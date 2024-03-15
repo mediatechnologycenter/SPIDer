@@ -1,2 +1,6 @@
 **/__pycache__/
-outputs
+.idea
+.venv
+outputs/precoumpted/
+outputs/preprocessed_data/
+outputs/results/
