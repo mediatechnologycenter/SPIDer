@@ -1,4 +1,6 @@
+
 # SPIDer: Summarization Analysis with Partial Information Decomposition
+<img src="spider_logo.png" alt="SPIDer Logo" width="130" height="auto">
 
 ## Description
 
