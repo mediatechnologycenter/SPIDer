@@ -35,16 +35,13 @@ The code to convert MultiRC into a MDS dataset and get the synergy scores is und
 ## Citation
 
 ```bibtex
-@inproceedings{TODO,
-    title = "",
-    author = "",
-    booktitle = "",
-    month = ,
-    year = "",
-    address = "",
-    publisher = "",
-    url = "",
-    pages = "",
-    abstract = "",
+@inproceedings{mascarell-2024-which,
+    title = "Which Information Matters? Dissecting Human-written Multi-document Summaries with Partial Information Decomposition",
+    author = "Mascarell, Laura and L'Homme, Yan and El Helou, Majed",
+    booktitle = "Findings of the Association for Computational Linguistics: ACL 2024",
+    month = aug,
+    year = "2024",
+    address = "Bangkok, Thailand",
+    publisher = "Association for Computational Linguistics",
 }
 ```
